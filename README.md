@@ -5,7 +5,7 @@ Desarrollo de dos sistemas de gestión utilizando Python con POO, módulos y exc
 ## Estructura del proyecto
 
 ```
-tp-programacion2/
+gestores/
 ├── ejercicio1_biblioteca/   # Sistema de gestión de biblioteca
 │   ├── modelos.py
 │   ├── biblioteca.py
