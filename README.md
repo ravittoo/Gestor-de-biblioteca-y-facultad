@@ -1,14 +1,4 @@
-# Trabajo Práctico - Programación II
-
-**Escuela Superior Urquiza**  
-Carrera Técnico Superior en Desarrollo de Software  
-Materia: Programación II — Cepeda Leandro  
-Alumnos: Luna, Santiago — Maliandi, Karen  
-Año: 2026
-
----
-
-## Descripción
+Descripción
 
 Desarrollo de dos sistemas de gestión utilizando Python con POO, módulos y excepciones personalizadas.
 
@@ -24,10 +14,6 @@ tp-programacion2/
 │   ├── modelos_facultad.py
 │   ├── facultad.py
 │   └── main_facultad.py
-├── docs/                    # Documentación y entrega
-│   └── entrega_prog2.docx
-├── main_general.py          # Menú principal que integra ambos sistemas
-└── README.md
 ```
 
 ## Cómo ejecutar
