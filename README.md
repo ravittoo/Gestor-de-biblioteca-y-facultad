@@ -6,11 +6,11 @@ Desarrollo de dos sistemas de gestión utilizando Python con POO, módulos y exc
 
 ```
 gestores/
-├── ejercicio1_biblioteca/   # Sistema de gestión de biblioteca
+├── biblioteca/   # Sistema de gestión de biblioteca
 │   ├── modelos.py
 │   ├── biblioteca.py
 │   └── main.py
-├── ejercicio2_facultad/     # Sistema de gestión de facultad
+├── facultad/     # Sistema de gestión de facultad
 │   ├── modelos_facultad.py
 │   ├── facultad.py
 │   └── main_facultad.py
