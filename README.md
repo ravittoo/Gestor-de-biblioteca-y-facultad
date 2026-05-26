@@ -27,6 +27,6 @@ python main_general.py
 O ejecutar cada ejercicio por separado:
 
 ```
-python ejercicio1_biblioteca/main.py
-python ejercicio2_facultad/main_facultad.py
+python biblioteca/main.py
+python facultad/main_facultad.py
 ```
